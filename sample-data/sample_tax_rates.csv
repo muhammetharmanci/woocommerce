@@ -1,6 +1,135 @@
-Country Code,State Code,ZIP/Postcode,City,Rate %,Tax Name,Priority,Compound,Shipping,Tax Class
-GB,*,*,*,20.0000,VAT,1,1,1,
-GB,*,*,*,5.0000,VAT,1,1,1,reduced-rate
-GB,*,*,*,0.0000,VAT,1,1,1,zero-rate
-US,*,*,*,10.0000,US,1,1,1,
-US,AL,12345; 123456,*,2.0000,US AL,2,1,1,
+Kimlik,Tür,"Stok kodu (SKU)",İsim,Yayımlanmış,"Öne çıkan?","Katalogda görünürlük","Kısa açıklama",Açıklama,"İndirimli fiyatın başladığı tarih","İndirimli fiyatın bittiği tarih","Vergi durumu","Vergi sınıfı",Stokta?,Stok,"Düşük stok miktarı","Yok satmaya izin?","Ayrı ayrı mı satılıyor?","Ağırlık (kg)","Uzunluk (cm)","Genişlik (cm)","Yükseklik (cm)","Müşteri incelemelerine izin verilsin mi?","Satın alma notu","İndirimli satış fiyatı","Normal fiyat",Kategoriler,Etiketler,"Gönderim sınıfı",Görseller,"İndirme sınırı","İndirme sona erme günü",Ebeveyn,"Gruplanmış ürünler","Yukarı satışlar","Çapraz satışlar","Harici URL","Düğme metni",Konum,"Meta: rs_page_bg_color","Meta: _last_editor_used_jetpack","Meta: _wpb_vc_js_status","Meta: _wp_page_template"	
+1263,simple,,"Doğa 2 Sticker Seti",1,1,visible,"DOĞA 2 Sticker Seti	
+\n	
+\nSticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK034","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,130,150,"Duvar Sticker, Trend Ürünler",,,"https://lismokids.com/wp-content/uploads/2018/02/doğa-seti.jpg, https://lismokids.com/wp-content/uploads/2018/02/doğa1mt-01-scaled.jpg",,,,,,,,,0,,classic-editor,true,default	
+3453,simple,,"Zürafa Bulutlar Ülkesinde Sticker Seti",1,0,visible,"Zürafa Bulutlar Ülkesinde Sticker Seti	
+\n	
+\nSticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK001	
+\n	
+\n&nbsp	,[vc_row][vc_column][vc_column_text]
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker.jpg,,,,,,,,,0,,classic-editor,true,	
+3455,simple,,"Mavi Şehir Sticker Seti",1,0,visible,"Mavi Şehir Sticker Seti	
+\n	
+\nSticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK001	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_2.jpg,,,,,,,,,0,,classic-editor,true,	
+3457,simple,,"Sevimli Fil Sticker Seti",1,0,visible,"Sevimli Fil Sticker Seti	
+\n	
+\nSticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK003	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_3.jpg,,,,,,,,,0,,classic-editor,true,	
+3460,simple,,"Renkli Düşler Sticker Seti",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK004	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Trend Ürünler","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_4.jpg,,,,,,,,,0,,classic-editor,true,default	
+3462,simple,,"Dinazor Sticker Seti",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK005	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_5.jpg,,,,,,,,,0,,classic-editor,true,	
+3467,simple,,"Uzayı Keşif Sticker Seti",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK006	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_6.jpg,,,,,,,,,0,,classic-editor,true,	
+3469,simple,,"Unicorn Sticker Seti",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK008	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/Cocuk_duvar_sticker_7.jpg,,,,,,,,,0,,classic-editor,true,	
+3492,simple,,"Minik Dostlar Gezide Boy Ölçer",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK071	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Boy Ölçer, Duvar Sticker, Hayvanlı Sticker Seti","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/boy-olcer.jpg,,,,,,,,,0,,classic-editor,true,default	
+3495,simple,,"Ayıcık Boy Ölçer",1,0,visible,"Sticker setimiz 100x70cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK060	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,110,"Boy Ölçer, Duvar Sticker, Hayvanlı Sticker Seti","boy ölçer, boy ölçer sticker, çocuk duvar sticker, çocuk odası, duvar boy ölçer, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/03/ayicik-boy-olcer.jpg,,,,,,,,,0,,classic-editor,true,default	
+3513,simple,,"Bohem Gökkuşağı",1,0,visible,"Sticker setimiz 100x100cm ölçülerinde olup her bir nesneyi istediğiniz düzende duvarınıza uygulayabilirsiniz.	
+\nÜrün kodu: LK099	
+\n	
+\nSet içerisindeki tüm nesneler fiyata dahildir. <strong>Kargo Ücretsiz.</strong>	
+\nSetimiz sizlere kendinden yapışkanlı ve hazır kesilmiş olarak gönderilmektedir.	
+\nSet içerisindeki nesneleri istediğiniz aralıkta kapı, dolap ve duvarınıza yapıştırabilirsiniz.","[vc_row][vc_column][vc_column_text]	
+\n<ul>	
+"\n 	<li>Her duvar renginde kullanıma uygundur.</li>"	
+"\n 	<li>İstenilen ölçüde tekrar düzenleme sağlanabilir.</li>"	
+"\n 	<li>Özel boyut siparişleriniz için whatsapp üzerinden iletişime geçebilirsiniz.</li>"	
+\n</ul>	
+\n[/vc_column_text][/vc_column][/vc_row]",,,taxable,,1,,,0,0,,,,,1,,,130,"Duvar Sticker","çocuk duvar sticker, çocuk odası, duvar sticker",,https://lismokids.com/wp-content/uploads/2021/05/182565778_110080667908720_1533916669859821935_n-1.jpg,,,,,,,,,0,,classic-editor,true,default	
